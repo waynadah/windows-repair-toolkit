@@ -1,4 +1,4 @@
-# Windows Repair Toolkit v1.0 (preview)
+# Windows Repair Toolkit – Microsoft Store & Windows Update Fix
 > **Compatibility and warning:** The underlying repair procedures have only been tested on Windows 10 22H2 (build 19045). The packaged toolkit itself has not yet been tested on Windows. Other versions are unsupported. Use at your own risk.
 
 Portable, unsigned source release. No installation required. Extract all files first. Right-click Launch.cmd and run as administrator, or run Repair.ps1 from an elevated 64-bit Windows PowerShell 5.1 session:
